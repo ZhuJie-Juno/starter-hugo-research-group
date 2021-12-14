@@ -1,5 +1,5 @@
 ---
-title: "Association of methylenetetrahydrofolate reductase rs1801133 polymorphisms with the efficacy of methotrexate in psoriasis and methotrexate-related hepatotoxicity in psoriatic arthritis"
+title: "Association of methylenetetrahydrofolate reductase rs1801133 polymorphisms with the efficacy of methotrexate in psoriasis and methotrexate-related hepatotoxicity in psoriatic arthritis (In submission)"
 authors:
 - admin
 - Zhicheng Wang
@@ -10,7 +10,7 @@ date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-01T00:00:00Z"
+publishDate: "2021-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

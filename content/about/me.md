@@ -10,9 +10,6 @@ active: true
 headless: true
 weight: 10
 # Order that this section appears on the page.
-interests:
-- Interest 1
-- Interest 2
 
 
 # Choose the user profile to display

@@ -17,7 +17,7 @@ role: June 15, 1995
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Molecular Biolog \&#58; DNA/RNA/protein extraction, ELISA, qPCR, western blot
+- 'Molecular Biology : DNA/RNA/protein extraction, ELISA, qPCR, western blot'
 - Immunology{:} cell culture, ﬂow cytometry, cytokine analysis
 - Software & Tools{:} Flowjo, Graphpad Prism, SPSS, Stata, Image J, R
 - Proﬁcient with dermoscopy and reﬂectance confocal microscopy (RCM)

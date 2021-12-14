@@ -8,7 +8,7 @@ active: true
 
 # This file represents a page section.
 headless: true
-
+weight: 10
 # Order that this section appears on the page.
 
 

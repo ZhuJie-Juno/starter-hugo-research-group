@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Patents
     url: patent
-    weight: 20
+    weight: 30
   - name: Publications
     url: publication
-    weight: 50
+    weight: 20
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
   - name: CV
     url: files/ZhuJie_CV.pdf
-    weight: 70
+    weight: 60

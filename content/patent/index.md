@@ -14,8 +14,8 @@ header:
   image: ""
 ---
 
-* The S100A4 is used as biomarker for evaluating methotrexate intervening psoriasis and application of biomarker for evaluatingmethotrexate intervening psoriasis (co-inventor). [CN112083167A](https://worldwide.espacenet.com/patent/search/family/073734213/publication/CN112083167A?q=CN112083167A). (published on 2020.12.15)
+* Kexiang Y, **Jie Z**, Zhenghua Z, Jinhua X, Xuejun Z. (2019). [Application of SNP locus of PPP1CB gene in preparation of products for detecting psoriasis vulgaris susceptibility](https://worldwide.espacenet.com/patent/search/family/073734220/publication/CN112080559A?q=112080559). *CN112080559A*. 
 
 <p></p>
 
-* Application of SNP locus of PPP1CB gene in preparation of products for detecting psoriasis vulgaris susceptibility (co-inventor). [CN112080559A](https://worldwide.espacenet.com/patent/search/family/073734220/publication/CN112080559A?q=112080559). (published on 2020.12.15)
+* Kexiang Y, Jinhua X, **Jie Z**. (2019). [The S100A4 is used as biomarker for evaluating methotrexate intervening psoriasis and application of biomarker for evaluating methotrexate intervening psoriasis](https://worldwide.espacenet.com/patent/search/family/073734213/publication/CN112083167A?q=CN112083167A). *CN112083167A*. 

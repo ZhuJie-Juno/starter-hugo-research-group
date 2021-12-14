@@ -19,11 +19,10 @@ role: June 15, 1995
 interests:
 - 'Molecular Biology: DNA/RNA/protein extraction, ELISA, qPCR, western blot'
 - 'Immunology: cell culture, ﬂow cytometry, cytokine analysis'
-- 'Software & Tools: Flowjo, Graphpad Prism, SPSS, Stata, Image J, R'
-- 'Proﬁcient with dermoscopy and reﬂectance confocal microscopy (RCM)'
-- 'Statistics and programming skills for bioinformatics analysis'
-- 'Rich experience in clinical research'
-- 'Licensed dermatologist in China (No. 202031110320683199606150225)'
+- 'Software & Tools: Flowjo, Graphpad Prism, SPSS, Stata, Image J, plink, R'
+- 'Imaging instruments: dermoscopy, in vivo reﬂectance confocal microscopy (RCM)'
+- 'Clinical: licensed doctor,  leader of a six-member team of the psoriasis bio-databank in Huashan Hospital'
+
 
 # education:
 #   courses:
@@ -77,4 +76,3 @@ I am a recent graduate with a master’s degree in dermatology from Fudan Univer
 
 My research interests include looking for biomarkers that predict the development of psoriatic arthritis among patients with psoriasis, as well as their response to different therapies including non-biological and biological agents. On top of that, I am also interested in the relationship between psoriasis and atopy.
 
-### Skills ###

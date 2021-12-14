@@ -1,5 +1,5 @@
 ---
-title: "Identification of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study (In submission)"
+title: "Methotrexate combination therapy is more suitable for psoriasis patients with increased serum IgE levels than IL-17A inhibitors alone (In submission)"
 authors:
 - admin
 - Zhicheng Wang

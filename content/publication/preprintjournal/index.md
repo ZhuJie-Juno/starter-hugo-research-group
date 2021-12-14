@@ -12,6 +12,7 @@ authors:
 - Zhizhong Zheng
 - Nikhil Yawalkar
 - Hui Deng
+- Kexiang Yan
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

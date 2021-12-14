@@ -24,7 +24,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
-    - path: github.com/ZhuJie-Juno/wowchemy-widget-jieabout
+    - path: github.com/zhujie-juno/wowchemy-widget-jieabout
   hugoVersion:
     min: '0.84.1'
     extended: true

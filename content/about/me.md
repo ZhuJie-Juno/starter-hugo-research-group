@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: github.ZhuJieJuno.jieabout
+widget: about
 
 # Activate this widget? true/false
 active: true
@@ -10,9 +10,9 @@ active: true
 headless: true
 weight: 10
 # Order that this section appears on the page.
-interests:
-- Interest 1
-- Interest 2
+# interests:
+# - Interest 1
+# - Interest 2
 
 
 # Choose the user profile to display

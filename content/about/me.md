@@ -17,3 +17,7 @@ weight: 10
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+Fun about me!
+
+What's next?

@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # interests:
 # - Artificial Intelligence
@@ -68,6 +68,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a recent graduate with a master’s degree in dermatology from Fudan University. After graduating from Shanghai Jiao Tong University School of Medicine (2018), I completed a three-year residency training at the department of dermatology, Huashan Hospital of Fudan University, which has been ranked No.1 among all departments of dermatology in China for 12 consecutive years since 2009.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include looking for biomarkers that predict the development of psoriatic arthritis among patients with psoriasis, as well as their response to different therapies including non-biological and biological agents. On top of that, I am also interested in the relationship between psoriasis and atopy.

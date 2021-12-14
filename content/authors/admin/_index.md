@@ -18,8 +18,8 @@ role: June 15, 1995
 
 interests:
 - 'Molecular Biology : DNA/RNA/protein extraction, ELISA, qPCR, western blot'
-- 'Immunology: cell culture, ﬂow cytometry, cytokine analysis
-- *Software & Tools* ': Flowjo, Graphpad Prism, SPSS, Stata, Image J, R'
+- 'Immunology: cell culture, ﬂow cytometry, cytokine analysis'
+- 'Software & Tools : Flowjo, Graphpad Prism, SPSS, Stata, Image J, R'
 - 'Proﬁcient with dermoscopy and reﬂectance confocal microscopy (RCM)
 - 'Statistics and programming skills for bioinformatics analysis
 - 'Rich experience in clinical research

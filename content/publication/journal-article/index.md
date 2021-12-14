@@ -1,8 +1,8 @@
 ---
 title: "Identification of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study"
 authors:
-- admin
-- Ling Han
+- **admin**
+- **Ling Han**
 - Ruilai Liu
 - Zhenghua Zhang
 - Qiong Huang

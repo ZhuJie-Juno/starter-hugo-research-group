@@ -20,7 +20,7 @@ interests:
 - 'Molecular Biology: DNA/RNA/protein extraction, ELISA, qPCR, western blot'
 - 'Immunology: cell culture, ﬂow cytometry, cytokine analysis'
 - 'Software & Tools: Flowjo, Graphpad Prism, SPSS, Stata, Image J, plink, R'
-- 'Imaging instruments: dermoscopy, in vivo reﬂectance confocal microscopy (RCM)'
+- 'Imaging Instruments: dermoscopy, in vivo reﬂectance confocal microscopy (RCM)'
 - 'Clinical: licensed doctor,  leader of a six-member team of the psoriasis bio-databank in Huashan Hospital'
 
 

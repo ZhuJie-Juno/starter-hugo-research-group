@@ -2,7 +2,6 @@
 title: "Identification of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study"
 authors:
 - admin
-- Robert Ford
 - Ling Han
 - Ruilai Liu
 - Zhenghua Zhang
@@ -13,7 +12,7 @@ authors:
 - Zhizhong Zheng
 - Nikhil Yawalkar
 - Hui Deng
-- Kexiang Yan
+- [Kexiang Yan]('/')
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"

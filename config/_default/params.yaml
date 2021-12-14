@@ -86,7 +86,10 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: mla
+  links_title: false
+  links_authors: false
+  highlight_active_link: false
 projects:
   post_view: 2
   publication_view: 2

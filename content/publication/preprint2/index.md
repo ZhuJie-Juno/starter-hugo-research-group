@@ -1,9 +1,9 @@
 ---
-title: "Association of methylenetetrahydrofolate reductase rs1801133 polymorphisms with the efficacy of methotrexate in psoriasis and methotrexate-related hepatotoxicity in psoriatic arthritis"
+title: "Identification of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study"
 authors:
 - admin
 - Zhicheng Wang
-- Zhenghua Zhang
+- Ruilai Liu
 
 
 date: ""

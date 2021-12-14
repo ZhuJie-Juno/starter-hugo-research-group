@@ -76,6 +76,6 @@ I am a recent graduate with a master’s degree in dermatology from Fudan Univer
 
 My research interests include looking for biomarkers that predict the development of psoriatic arthritis among patients with psoriasis, as well as their response to different therapies including non-biological and biological agents. On top of that, I am also interested in the relationship between psoriasis and atopy.
 
-<br/><br/>
+<br/>
 
 ### Skills ###

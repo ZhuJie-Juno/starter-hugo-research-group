@@ -17,9 +17,13 @@ role: June 15, 1995
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Molecular Biolog{:} DNA/RNA/protein extraction, ELISA, qPCR, western blot
+- Immunology{:} cell culture, ﬂow cytometry, cytokine analysis
+- Software & Tools{:} Flowjo, Graphpad Prism, SPSS, Stata, Image J, R
+- Proﬁcient with dermoscopy and reﬂectance confocal microscopy (RCM)
+- Statistics and programming skills for bioinformatics analysis
+- Rich experience in clinical research
+- Licensed dermatologist in China (No. 202031110320683199606150225)
 
 # education:
 #   courses:

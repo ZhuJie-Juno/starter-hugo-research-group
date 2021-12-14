@@ -1,7 +1,7 @@
 ---
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
+widget: 'github.zhujie-juno.jieabout'
 
 # Activate this widget? true/false
 active: true

@@ -15,7 +15,7 @@ header:
 ---
 
 
-1. **Jie Zhu**, Ling Han, Ruilai Liu, et al. Identiﬁcation of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study. *J Transl Med*. 2021 Aug 3;19(1):331.  
+1. **Jie Zhu**, Ling Han, Ruilai Liu, et al. Identiﬁcation of proteins associated with development of psoriatic arthritis in peripheral blood mononuclear cells: a quantitative iTRAQ-based proteomics study. *J Transl Med*. 2021 Aug 3;19(1):331.  ![Link](https://pubmed.ncbi.nlm.nih.gov/34344401/)  
 <p></p>
 
 2. **Jie Zhu**, Zhicheng Wang, Zhenghua Zhang, et al. Association of methylenetetrahydrofolate reductase rs1801133 polymorphisms with the efﬁcacy of methotrexate in psoriasis and methotrexate-related hepatotoxicity in psoriatic arthritis. (in submission)  

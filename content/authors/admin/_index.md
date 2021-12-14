@@ -68,6 +68,10 @@ user_groups:
 - Researchers
 ---
 
+""
+
+""
+
 I am a recent graduate with a master’s degree in dermatology from Fudan University. After graduating from Shanghai Jiao Tong University School of Medicine (2018), I completed a three-year residency training at the department of dermatology, Huashan Hospital of Fudan University, which has been ranked No.1 among all departments of dermatology in China for 12 consecutive years since 2009.
 
 My research interests include looking for biomarkers that predict the development of psoriatic arthritis among patients with psoriasis, as well as their response to different therapies including non-biological and biological agents. On top of that, I am also interested in the relationship between psoriasis and atopy.

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhu Jie
+title: Jie Zhu
 
 # Is this the primary user of the site?
 superuser: true

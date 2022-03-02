@@ -21,4 +21,4 @@ header:
 2. **Jie Zhu**, Zhicheng Wang, Zhenghua Zhang, et al. Association of methylenetetrahydrofolate reductase rs1801133 polymorphisms with the efﬁcacy of methotrexate in psoriasis and methotrexate-related hepatotoxicity in psoriatic arthritis. (in submission)  
 <p></p>  
 
-3. **Jie Zhu**, Ling Han, Zhenghua Zhang, et al. Methotrexate combination therapy is more suitable for psoriasis patients with increased serum IgE levels than IL-17A inhibitors alone. (in submission)   
+3. **Jie Zhu**, Ling Han, Zhenghua Zhang, et al. Methotrexate modulates IgE levels in psoriatic inflammation. (in submission)   

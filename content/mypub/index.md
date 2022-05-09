@@ -19,7 +19,7 @@ header:
 <p></p>
 
 2. **Jie Zhu**, Zhicheng Wang, Lu Tao, et al. MTHFR gene polymorphism association with psoriatic arthritis risk and the efficacy and
-hepatotoxicity of methotrexate in psoriasis. (In press)
+hepatotoxicity of methotrexate in psoriasis. *Front Med (Lausanne)*. 2022 Apr 11;9,869912. [(Paper Link)](https://www.frontiersin.org/articles/10.3389/fmed.2022.869912/full)
 <p></p>  
 
 3. **Jie Zhu**, Ling Han, Zhenghua Zhang, et al. Methotrexate modulates IgE levels in psoriatic inflammation. (In submission)   

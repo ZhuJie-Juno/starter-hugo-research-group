@@ -15,7 +15,7 @@ header:
 ---
 
 Email: [zhujiejuno@gmail.com](mailto:zhujiejuno@gmail.com)  
-Phone: +1-949-992-4905   
+Phone: +86-18317013080   
 
 ![image](https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg)
 

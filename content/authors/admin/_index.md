@@ -72,7 +72,7 @@ user_groups:
 ---
 
 
-I am a recent graduate (Summer 2021) with a master’s degree in dermatology from Fudan University. After graduating from Shanghai Jiao Tong University School of Medicine in 2018, I completed a three-year residency training at the department of dermatology, Huashan Hospital of Fudan University, which has been ranked No.1 among all departments of dermatology in China for 12 consecutive years.
+I am a recent graduate (Summer 2021) with a master’s degree of medicine in dermatology from Fudan University. After graduating from Shanghai Jiao Tong University School of Medicine in 2018, I completed a three-year residency training at the department of dermatology, Huashan Hospital of Fudan University, which has been ranked No.1 among all departments of dermatology in China for 12 consecutive years.
 
 My research interests centre around the role of IgE and FcεRI in psoriasis and atopic dermatitis. On top of that, I have been looking for biomarkers that predict the development of psoriatic arthritis among patients with psoriasis, as well as their response to different therapies including non-biological and biological agents.
 

@@ -15,13 +15,17 @@ header:
 ---
 
 
-![image](https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg) ![image](https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg)
-
------------------------
-<img src="" alt="Alt text" style="box-shadow: 3px 3px 3px gray;">
-
------------------------
-<p align="center">
-      <img src="https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg" align="left">
-      <img src="https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg" align="right">
-</p>
+<div class="aside">
+    <div style="width:40%; float:left; margin-right:10%">
+        <figure>
+            <img src="https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg" align="right">
+            <figcaption style="text-align: center">An elephant at sunset</figcaption>
+        </figure>
+    </div>
+    <div style="width:40%; float:right; margin-right:10%">
+        <figure>
+            <img src="https://user-images.githubusercontent.com/15907990/146064630-fe459b40-098a-4921-9c84-94869dfdb5ba.jpeg" align="right">
+            <figcaption style="text-align: center">An elephant at sunset</figcaption>
+        </figure>
+    </div>
+</div>

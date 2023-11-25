@@ -16,6 +16,9 @@ main:
   - name: Contact
     url: contact
     weight: 70
+  - name: Personal Life
+    url: personal_life
+    weight: 40
   - name: CV
     url: files/ZhuJie_CV.pdf
     weight: 60
